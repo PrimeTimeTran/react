@@ -1,0 +1,14 @@
+Functional Component
+  Used for Static Data.
+  Data goes in, data goes out; like a garden hose.
+
+Class Component
+  Used for Handling Dynamic sources of Data
+  Fetching data, easier to use to write large components
+  Based on es6 classes
+
+NPM
+  // After Installing had to restart the emulator and terminal
+  Axios: Fetches data from HTTP request
+  Lint: Highlights bad code
+  ESLint: Highlights bad code for ES6
